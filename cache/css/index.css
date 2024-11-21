@@ -1,0 +1,6 @@
+body {
+  background-color: pink;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  border-image: linear-gradient(45deg, #f0f8ff, #f0f8ff) 1;
+}
